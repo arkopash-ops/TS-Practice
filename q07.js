@@ -1,5 +1,5 @@
 "use strict";
-// Practice 6 — TypeScript Utility Types (Required, Readonly, Partial, Pick, Omit, Record, Exclude, ReturnType, Parameters)
+// Practice 7 — TypeScript Utility Types (Required, Readonly, Partial, Pick, Omit, Record, Exclude, ReturnType, Parameters)
 Object.defineProperty(exports, "__esModule", { value: true });
 const requiredUser = {
     id: 1,

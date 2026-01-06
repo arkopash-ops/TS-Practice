@@ -1,4 +1,4 @@
-// Practice 6 — TypeScript Utility Types (Required, Readonly, Partial, Pick, Omit, Record, Exclude, ReturnType, Parameters)
+// Practice 7 — TypeScript Utility Types (Required, Readonly, Partial, Pick, Omit, Record, Exclude, ReturnType, Parameters)
 
 interface User {
   id: number;
