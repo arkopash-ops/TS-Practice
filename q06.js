@@ -1,5 +1,5 @@
 "use strict";
-// Practice 5 — Discriminated Union
+// Practice 6 — Discriminated Union
 // Task:
 //     Create two interfaces:
 //         LoadingState → { status: "loading" }
